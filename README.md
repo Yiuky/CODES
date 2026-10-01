@@ -35,4 +35,4 @@ Se estes scripts economizaram o seu tempo, considere pagar um café para o desen
 </table>
 
 ---
-Autor: [Joberth Firmino Gambati](https://github.com/Yiuky)
+Autor: [Joberth Firmino Gambati](https://github.com/Yiuky) · Licença [MIT](LICENSE)
