@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Falha de segurança
+    url: https://github.com/Yiuky/CODES/security/advisories/new
+    about: Não abra issue pública. Use o relato privado (Report a vulnerability) na aba Security do repositório.
